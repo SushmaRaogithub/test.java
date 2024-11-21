@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class SumProgram {
     public static void main(String[] args) {
         // Create a Scanner object to take input from the user
